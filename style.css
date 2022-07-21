@@ -8,11 +8,11 @@
   border: 1px solid black;
 }
 .main {
- padding:2rem;
+ padding:100px 0;
 }
 
 .container {
-  width:80%;
+  width:40%;
   max-width:1000px;
   margin:0 auto;
 }
